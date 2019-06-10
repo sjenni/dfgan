@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+theme: minima
+title: On Stabilizing Generative Adversarial Training with Noise
+author: Simon Jenni & Paolo Favaro, University of Bern
+email: simon.jenni@inf.unibe.ch, paolo.favaro@inf.unibe.ch
+description: This is the project page for our CVPR2019 paper titled "On Stabilizing Generative Adversarial Training with Noise"
