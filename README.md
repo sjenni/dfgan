@@ -16,3 +16,6 @@ The code is based on Python 2.7 and tensorflow 1.12.
 
 - To train and evaluate a DFGAN with learned noise on CIFAR-10 run **run_DFGAN_ln.py**.
 - To train and evaluate a standard GAN on CIFAR-10 run **run_standard_GAN.py**.
+
+## PyTorch implementation
+A PyTorch implementation of DFGAN is provided by: https://github.com/Johnson-yue/pytorch-DFGAN
