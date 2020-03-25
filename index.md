@@ -9,7 +9,6 @@
   <a href="https://github.com/sjenni/dfgan" style="font-size: 20px; text-decoration: none">[GitHub]</a>
 </p>
 
-___
 
 ![Algorithm](assets/DFGAN.png)
 *Our DFGAN model. To improve the stability of GAN training, we propose to add noise samples to half of the images in each mini-batch fed to the discriminator. This leads to more stable training by increasing the support of both the data and generator distributions. To challenge the discriminator we propose to learn the additive noise via a noise generator N.*
