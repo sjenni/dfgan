@@ -1,12 +1,12 @@
 <p align="center">
   <b style="font-size: 24px">Paper:</b><br>
-  <a href="https://arxiv.org/abs/1906.04612" style="font-size: 20px; text-decoration: none">[Arxiv]</a>
+  <a href="https://arxiv.org/abs/1906.04612" style="font-size: 24px; text-decoration: none">[Arxiv]</a>
 </p>
 
 
 <p align="center">
   <b style="font-size: 24px">Code:</b><br>
-  <a href="https://github.com/sjenni/dfgan" style="font-size: 20px; text-decoration: none">[GitHub]</a>
+  <a href="https://github.com/sjenni/dfgan" style="font-size: 24px; text-decoration: none">[GitHub]</a>
 </p>
 
 
